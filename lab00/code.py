@@ -7,4 +7,3 @@ def fizzbuzz(num):
         print(f"{num}:buzz")
 for i in range(1, 21):
     fizzbuzz(i)// 函数功能
-
