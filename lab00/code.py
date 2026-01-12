@@ -6,4 +6,5 @@ def fizzbuzz(num):
     elif num % 5 == 0:
         print(f"{num}:buzz")
 for i in range(1, 21):
-    fizzbuzz(i)
+    fizzbuzz(i)// 函数功能
+
